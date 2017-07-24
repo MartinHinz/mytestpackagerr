@@ -9,3 +9,5 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/MartinHinz/mytestpackagerr
 BugReports: https://github.com/MartinHinz/mytestpackagerr/issues
+Imports: bookdown
+Suggests: testthat
