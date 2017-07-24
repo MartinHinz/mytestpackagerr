@@ -2,7 +2,7 @@
 
 env:
   global:
-  - REPO=MartinHinz/mytestpackagerr
+  - REPO=martinhinz/mytestpackagerr
 
 sudo: required
 
