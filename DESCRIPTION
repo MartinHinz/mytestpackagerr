@@ -7,3 +7,5 @@ Depends: R (>= 3.4.1)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/MartinHinz/mytestpackagerr
+BugReports: https://github.com/MartinHinz/mytestpackagerr/issues
